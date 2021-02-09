@@ -1,0 +1,66 @@
+
+
+
+* {
+    
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+    
+    
+    
+    
+}
+
+body {
+    
+   font-family: 'PT Sans Narrow', sans-serif;
+    
+}
+
+header {
+    
+    height: 65px;
+    width: 100%;
+    background: #B0C4B1;
+    color: azure;
+    
+    position: fixed;
+    top:0;
+    left:0;
+    z-index: 100;
+    
+    
+    
+}
+
+.contenedor {
+    
+    width: 98%;
+    margin:auto;
+    
+    
+    
+}
+
+h1 {
+    float: left;
+}
+
+
+section {
+    
+    
+    width: 100%;
+    margin-bottom: 25px;
+    
+}
+
+#bienvenidos {
+    text-align: center;
+    color:#81BEF7;
+}
+
+
+

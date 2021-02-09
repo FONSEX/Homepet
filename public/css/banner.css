@@ -1,0 +1,31 @@
+#banner {
+    
+   margin-top: 70px;
+   position:relative;
+    
+}
+#banner img {
+    
+    height: 100%;
+    width: 100%;
+    
+    
+    
+}
+
+#banner .contenedor {
+    position: absolute;
+    top:50%;
+    left:5%;
+    color:#1F282F;
+    transform: translateX(-50%);
+    transform: translateY(-50%);
+}
+
+#banner h2 {
+    
+    font-size: 28px;
+}
+
+
+
