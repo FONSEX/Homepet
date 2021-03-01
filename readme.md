@@ -1,6 +1,6 @@
 ## Preview Images from the Repository 
 
-<p align="center"><img src="https://i.imgur.com/cbwI88q.png"></p>
+<p align="center"><img src="https://i.imgur.com/c0Gpqcns.png"></p>
 <p align="center"><img src="https://i.imgur.com/c0Gpqcn.png"></p>
 <p align="center"><img src="https://imgur.com/oHews4V"></p>
 <p align="center"><img src="https://imgur.com/c0Gpqcn"></p>
