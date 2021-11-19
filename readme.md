@@ -4,7 +4,9 @@
 <p align="center"><img src="https://i.imgur.com/PeTkGtH.png"></p>
 <p align="center"><img src="https://i.imgur.com/oHews4V.png"></p>
 
+## E/R Diagram Preview
 
+<p align="center"><img src="https://i.imgur.com/ruu7lQn.jpg"></p>
 
 
 <p align="center"><img src="https://laravel.com/assets/img/components/logo-laravel.svg"></p>
